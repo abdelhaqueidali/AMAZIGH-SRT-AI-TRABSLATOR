@@ -1,0 +1,5 @@
+{
+  "name": "Amazigh Subtitle Translator",
+  "description": "A tool to translate subtitle files (SRT) into Standard Moroccan Amazigh line-by-line, with context awareness and a user-managed dictionary for translation consistency.",
+  "requestFramePermissions": []
+}
